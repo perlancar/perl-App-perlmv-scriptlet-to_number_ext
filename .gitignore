@@ -2,3 +2,4 @@ App-perlmv-scriptlet-to_number_ext-*
 .build
 *~
 nytprof*
+.DS_Store
